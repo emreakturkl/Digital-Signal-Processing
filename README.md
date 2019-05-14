@@ -14,6 +14,8 @@
 - MAX4466 Module
 - Nokia 5110 Lcd
 
+![](SoundLocalization/image.png)
+
 Turkish Documents : dsp_rapor.pdf
 
 
