@@ -18,6 +18,8 @@
 
 - dsp_rapor.pdf
 
+**Breadboard Circuit**
+
 ![](SoundLocalization/img.jpg)
 
 
